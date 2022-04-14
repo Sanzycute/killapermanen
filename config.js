@@ -62,7 +62,7 @@ global.namaowner = 'Sanzy Store'
 global.myweb = 'https://youtube.com/shorts/8xDh-rcMrYk?feature=share'
 
 
-global.owner = [ '628289367621' ]
+global.owner = [ '6288289367621' ]
 
 
 global.premium = ['6281276698054']
