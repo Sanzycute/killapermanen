@@ -57,7 +57,7 @@ global.APIKeys = {
 
 global.namabot = 'Syakilla Bot'
 
-global.namaowner = 'Sanzy Store'
+global.namaowner = 'Syakilla Store'
 
 global.myweb = 'https://youtube.com/shorts/8xDh-rcMrYk?feature=share'
 
